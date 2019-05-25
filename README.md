@@ -9,7 +9,7 @@ The objective of these predictions is to assign patients to either a benign grou
 The experimental study is based on the Wisconsin Breast Cancer database from the UC Irvine Machine Learning Repository. 
 [Dataset link](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin)
 
-The Breast Cancer database was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg. It contains 699 instances, 458 (65.5%) benign and 241 (34.5%) malignant cases. Each case is characterized by 9 attributes as described by Table I and two classes (benign and malignant).
+The Breast Cancer database was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg. It contains 699 instances, 458 (65.5%) benign and 241 (34.5%) malignant cases. Each case is characterized by 9 attributes and two classes (benign and malignant).
 
 Attributes and domains are as follows: 
  1. Clump Thickness: 1 – 10 
